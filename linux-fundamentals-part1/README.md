@@ -24,4 +24,4 @@
 
 🌐 Plataforma: [TryHackMe](https://tryhackme.com/room/linuxfundamentalspart1)
 
-📁 Proyecto cargado como evidencia práctica en mi [GitHub](https://github.com/tu-usuario/tryhackme-projects)
+📁 Proyecto cargado como evidencia práctica en mi [GitHub](https://github.com/PabloIsma3l/tryhackme-projects.git)
