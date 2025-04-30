@@ -1,6 +1,6 @@
 # TryHackMe - Introduction to Cyber Security
 
-## 📚 Descripción
+## 📚 Descripción 
 Completé la sala "Introduction to Cyber Security" en la plataforma TryHackMe, donde adquirí conocimientos esenciales sobre:
 
 - Principales amenazas cibernéticas (phishing, malware, ransomware, etc.)
